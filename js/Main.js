@@ -1,6 +1,5 @@
 let medlemmer = ['Mathias', 'Vetle', 'Joakim', 'Cornelia', 'Theodor', 'Anette'];
 let persbilde = [ "./images/Mathias.png", './images/Vetle.png',  "./images/Joakim.png",  "./images/Cornelia.png", "./images/Theodor.png" ,"./images/Anette.png",]
-let telefonNummer = ['+ 47 98316662', '+ 47 41243847', '+47 47603305', '+47 98600291', '+47 96046176', '+47 41391140']
 let mail = ['mjjorgense@uia.no', 'vetlem@uia.no', 'Joakimbj@uia.no', 'corneliars@uia.no', 'theodorkp@uia.no', 'Anettelj@uia.no']
 let quotes = [
     '“If a person can’t be calm for long, they can’t be happy for long, because happiness is calmness.”',
